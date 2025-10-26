@@ -23,7 +23,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-8">
         {/* Header */}
         <div className="mb-12 text-center">
-          <h1 className="text-4xl font-bold text-white mb-2">💰 Crypto Profit Calculator</h1>
+          <h1 className="text-4xl font-bold text-white mb-2"> Crypto Profit Calculator</h1>
           <p className="text-slate-400">Estimate your potential profits with precision</p>
         </div>
 
